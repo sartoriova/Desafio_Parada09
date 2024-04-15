@@ -19,3 +19,5 @@
 
 # Wireframe
 ![Wireframe](https://github.com/sartoriova/Desafio_Parada09/assets/140718279/734dd252-a459-4f4a-930f-f7c44ad0e0f2)
+
+![Wireframe](https://github.com/sartoriova/Desafio_Parada09/assets/140718279/38ec7695-d152-428e-8904-2ed8e768bd14)
